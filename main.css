@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.ota{
+    padding-top: 76px;
+}
+.ax{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+.xa{
+    color: #000000;
+
+font-size: 32px;
+font-weight: 700;
+}
+.vauv{
+
+    color: rgb(0, 0, 0);
+    padding-top: 128px;
+    font-size: 64px;
+    font-weight: 700;
+    
+    text-align: center;
+}
+.hero{
+    padding-top: 128px; 
+    display: flex;
+    justify-content: space-around;
+  
+    
+}
+ 
+  
+   
+  
+.bolaz{
+    
+    color: #ffffff;
+
+font-size: 64px;
+font-weight: 700;
+line-height: 77px;
+padding: 187px ;
+text-align: center;
+
+}
+.axa{
+    background-color: #ff0000;
+    width: 558px;
+    height: 452px;
+    margin-left: 63px;
+    display: flex;
+    justify-content: space-around;
+    gap: 40px;
+}
+.bola{  
+    color: #ffffff;
+
+font-size: 64px;
+font-weight: 700;
+line-height: 77px;
+padding: 187px ;
+text-align: center;
+margin: 50px 50px 50px 50px;
+padding: 50px 50px 50px 50px ;
+}
+.sas{
+    background-color: #ff0000;
+    width: 558px;
+    height: 452px;
+    margin-left: 63px;
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+}
+.uf{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    padding-top: 257px;
+}
+  
+  
+
+  
+
+
+
+
+
